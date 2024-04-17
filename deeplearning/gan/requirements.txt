@@ -1,0 +1,4 @@
+torch
+torchvision
+matplotlib
+gdown==4.6.0
